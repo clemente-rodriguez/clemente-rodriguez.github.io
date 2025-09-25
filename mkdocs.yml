@@ -1,0 +1,14 @@
+site_name: Mi Página Personal
+site_author: Clemente Rodriguez
+site_url: https://clemente-rodriguez.github.io
+
+theme:
+  name: dracula  # Prueba: material, mkdocs, readthedocs
+
+nav:
+  - Inicio: index.md
+  - Sobre Mí: sobre-mi.md
+  - Proyectos: proyectos.md
+  - Contacto: contacto.md
+
+repo_url: https://github.com/clemente-rodriguez/clemente-rodriguez.github.io
