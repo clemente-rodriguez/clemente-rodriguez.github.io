@@ -18,7 +18,14 @@
 |                   |🧱 Docker           |                    |
 
 ## Experiencia
-Posicion - Empresa (fecha)
-    - cosa 1
-    - cosa 2
-    - cosa 3
+    Posicion - H.P.D. VEOLIA, SAU (2020)
+        -Mantenimiento de la red.
+        -Reacondicionamiento de equipos informaticos.
+        -Reparación de estaciones de trabajo informáticas.
+        -Redistribución de equipos informáticos.
+
+    Posicion - SIMTEC INGENIERIA (2022)
+        -Manipulacion de planos de edificios de cara a proyectos de construcción en grupo.
+
+    Posicion - AYESA IBERMÁTICA (2023-2024)
+        -Programación orientada a la mejora y mantenimiento de multiples aplicativos.
