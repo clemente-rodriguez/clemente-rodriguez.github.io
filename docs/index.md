@@ -1,6 +1,6 @@
 # ¡Hola! Soy Clemente
 
-Estudiante de Inteligencia Artificial y Big Data especializado en Somorrostro.
+Estudiante de Inteligencia Artificial y Big Data especializado en Somorrostro, Administrador/a de sistemas, Delineante Proyectista y Programador de aplicaciones móviles.
 
 ## Sobre mí
 Soy un chico de Portugalete, he estudiado ASIR, DFM, DAM, y IABD, con enfoque a la rama de informatica, aunque me manejo bien con inventor y soy camapz de leer y generar planos.
