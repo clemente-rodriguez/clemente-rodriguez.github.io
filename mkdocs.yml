@@ -4,6 +4,7 @@ site_url: https://clemente-rodriguez.github.io
 
 theme:
   name: dracula 
+  custom_dir: overrides
 
 nav:
   - Inicio: index.md
