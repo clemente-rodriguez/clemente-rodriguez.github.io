@@ -1,4 +1,4 @@
-# ¡Hola! Soy Clemente
+# ¡Hola! Soy ![Clemente](fotos/foto.bmp)
 
 Estudiante de Inteligencia Artificial y Big Data especializado en Somorrostro, Administrador/a de sistemas, Delineante Proyectista y Programador de aplicaciones móviles.
 

@@ -13,7 +13,7 @@
 | ☕ Java          | 🧠 Eclipse          | 🎨 CSS            |
 | ⚙️ C#            | 🧰 Git              | 🧩 JavaScript     |
 | 🐙 GitHub        | 🐬 MySQL            | 📱 Android Studio |
-|                  | 🧠 Elastic          | 🌐 XHTML          |
+|                  | 🧠 Elastic          | 🌐 XHTML           |
 |                  | 🧠 XML              |                    |
 |                   |🧱 Docker           |                    |
 
