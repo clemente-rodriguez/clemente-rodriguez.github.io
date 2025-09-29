@@ -1,6 +1,7 @@
 # Sobre Mí
 
 ## Educación 
+- C2 de Ingles
 - Administración de Sistemas informáticos en red - Elorrieta-Errekamari (2018-2020)
 - Diseño en Fabricación Mecánica - Elorrieta-Errekamari (2020-2022)
 - Diseño en Aplicaciónes Multi-plataforma - Elorrieta-Errekamari (2022-2024)
