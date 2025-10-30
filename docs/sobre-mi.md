@@ -1,4 +1,9 @@
 # Sobre Mí
+
+<iframe src="/img/CV_Clemente_Rodriguez.pdf" width="100%" height="600px" style="border: none;">
+  Tu navegador no soporta la visualización de PDFs.
+</iframe>
+
 <a href="/img/CV_Clemente_Rodriguez.pdf" download style="
   display: inline-block;
   padding: 10px 20px;
@@ -27,7 +32,6 @@
 | 🧩 JavaScript    | 🐬 MySQL           | 📱 Android Studio |
 |                   |🧠 Elastic          | 🌐 XHTML         |
 |                   |🐬 Docker           | 📊 Kibana        |
-|                   |                    |                   |
 
 ## Experiencia
 
