@@ -1,4 +1,15 @@
 # Sobre Mí
+<a href="img/CV_Clemente_Rodriguez.pdf" download style="
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #6d3abeb6;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+">
+  Descargar Mi CV
+</a>
 
 ## Educación 
 - C2 de Ingles
