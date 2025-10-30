@@ -1,5 +1,5 @@
 # Sobre Mí
-<a href="img/CV_Clemente_Rodriguez.pdf" download style="
+<a href="{{ base_url }}/img/CV_Clemente_Rodriguez.pdf" download style="
   display: inline-block;
   padding: 10px 20px;
   background-color: #6d3abeb6;
