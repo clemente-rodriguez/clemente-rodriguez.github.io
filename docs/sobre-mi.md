@@ -1,5 +1,5 @@
 # Sobre Mí
-<a href="site/img/CV_Clemente_Rodriguez.pdf" download style="
+<a href="/img/CV_Clemente_Rodriguez.pdf" download style="
   display: inline-block;
   padding: 10px 20px;
   background-color: #6d3abeb6;
@@ -19,15 +19,15 @@
 - Administración de Sistemas informáticos en red - Elorrieta-Errekamari (2018-2020)
 
 ## Habilidades
-| 💻 Lenguaje      | 🛠️ Herramienta     | 🌐 Web             |
+| 💻 Lenguaje      | 🛠️ Herramienta     | 🌐 Web            |
 |:----------------:|:-------------------:|:------------------:|
-| 🐍 Python        | 📊 Grafana          | 🌐 HTML           |
-| ☕ Java          | 🧠 Eclipse          | 🎨 CSS            |
-| ⚙️ C#            | 🧰 Git              | 🧩 JavaScript     |
-| 🐙 GitHub        | 🐬 MySQL            | 📱 Android Studio |
-|                  | 🧠 Elastic          | 🌐 XHTML           |
-|                  | 🧠 XML              |                    |
-|                   |🧱 Docker           |                    |
+| 🐍 Python        | 📊 Grafana         | 🌐 HTML           |
+| ☕ Java          | 🧠 Eclipse         | 🎨 CSS            |
+| ⚙️ C#            | 🧰 Git             |  🐙 GitHub        |
+| 🧩 JavaScript    | 🐬 MySQL           | 📱 Android Studio |
+|                   |🧠 Elastic          | 🌐 XHTML         |
+|                   |🐬 Docker           | 📊 Kibana        |
+|                   |                    |                   |
 
 ## Experiencia
 
