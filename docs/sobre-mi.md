@@ -1,5 +1,5 @@
 # Sobre Mí
-<a href="{{ base_url }}/img/CV_Clemente_Rodriguez.pdf" download style="
+<a href="site/img/CV_Clemente_Rodriguez.pdf" download style="
   display: inline-block;
   padding: 10px 20px;
   background-color: #6d3abeb6;
@@ -13,10 +13,10 @@
 
 ## Educación 
 - C2 de Ingles
-- Administración de Sistemas informáticos en red - Elorrieta-Errekamari (2018-2020)
-- Diseño en Fabricación Mecánica - Elorrieta-Errekamari (2020-2022)
-- Diseño en Aplicaciónes Multi-plataforma - Elorrieta-Errekamari (2022-2024)
 - Inteligencia Artificial y Big Data - Centro de Formación Somorrostro (2025-2026)
+- Diseño en Aplicaciónes Multi-plataforma - Elorrieta-Errekamari (2022-2024)
+- Diseño en Fabricación Mecánica - Elorrieta-Errekamari (2020-2022)
+- Administración de Sistemas informáticos en red - Elorrieta-Errekamari (2018-2020)
 
 ## Habilidades
 | 💻 Lenguaje      | 🛠️ Herramienta     | 🌐 Web             |
@@ -30,14 +30,16 @@
 |                   |🧱 Docker           |                    |
 
 ## Experiencia
+
+    Posicion - AYESA IBERMÁTICA (2023-2024)
+        -Programación orientada a la mejora y mantenimiento de multiples aplicativos (Java, XML, Javascript, HTML, XHTML, CSS).
+        -Manipulación de Base de datos (SQL)
+
+    Posicion - SIMTEC INGENIERIA (2022)
+        -Manipulacion de planos de edificios de cara a proyectos de construcción.
+
     Posicion - H.P.D. VEOLIA, SAU (2020)
         -Mantenimiento de la red.
         -Reacondicionamiento de equipos informaticos.
         -Reparación de estaciones de trabajo informáticas.
         -Redistribución de equipos informáticos.
-
-    Posicion - SIMTEC INGENIERIA (2022)
-        -Manipulacion de planos de edificios de cara a proyectos de construcción en grupo.
-
-    Posicion - AYESA IBERMÁTICA (2023-2024)
-        -Programación orientada a la mejora y mantenimiento de multiples aplicativos.
