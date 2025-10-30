@@ -1,8 +1,8 @@
 # ¡Hola! Soy Clemente
 
-Estudiante de Inteligencia Artificial y Big Data especializado en Somorrostro, Administrador/a de sistemas, Delineante Proyectista y Programador de aplicaciones móviles.
+Estudiante de Inteligencia Artificial y Big Data en Somorrostro, con formación previa como Administrador de Sistemas (ASIR), Delineante Proyectista (DFM), Desarrollador de Aplicaciones Móviles (DAM) y Especialista en Inteligencia Artificial y Big Data (IABD). Apasionado por la tecnología, el diseño técnico y el desarrollo de soluciones digitales.
 
 ## Sobre mí
-Soy un chico de Portugalete, he estudiado ASIR, DFM, DAM, y IABD, con enfoque a la rama de informatica, aunque me manejo bien con inventor y soy camapz de leer y generar planos.
+Soy de Portugalete y he orientado mi formación hacia el ámbito de la informática, aunque también tengo habilidades en diseño técnico. Me desenvuelvo con soltura en herramientas como Autodesk Inventor y tengo experiencia en lectura y generación de planos.
 
-Durante mi estadío en Elorrieta, en un proyecto que abarcaba todo el curso para una competición, tuvimos qeu diseñar y fabricar un coche en equipos de 3 y terminamos ganando el premio a mejor diseño de ese año. El trabajo en equipo, la capacidad de evaluar y desarrollar ideas, y el compromiso fue vital para que ganasemos.
+Durante mi etapa en Elorrieta, participé en un proyecto anual para una competición en el que, junto a dos compañeros, diseñamos y fabricamos un coche. Nuestro equipo ganó el premio al mejor diseño del año, gracias a nuestra capacidad de trabajo colaborativo, creatividad en el desarrollo de ideas y compromiso con el proyecto.
